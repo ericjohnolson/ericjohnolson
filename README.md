@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ericjohnolson, I'm a software architect at https://aterian.io
 - 👀 I’m interested in scalable architectures, DDD, TDD, UX, art, and creative technologies
-- 🌱 I’m currently learning spark, datalakes, "big" data analytics
+- 🌱 I’m currently learning data analytics with spark/databricks
 - 💞️ I’m looking to collaborate on creative technology
 - 📫 How to reach me eric@aterian.io or for creative projects: http://ericolson.xyz/
 
